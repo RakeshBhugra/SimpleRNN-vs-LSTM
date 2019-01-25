@@ -1,0 +1,5 @@
+sentdex - https://www.youtube.com/watch?v=BSpXCRTOLJA
+stanford lecture - https://www.youtube.com/watch?v=6niqTuYFZLQ
+stanford lecture slides - http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf
+keras rnn - https://keras.io/layers/recurrent/
+Udemy jose portilla - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content
